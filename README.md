@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sumit.</h1>
 <h3 align="center">Full-Stack Javascript developer from Kathmandu, Nepal with 6+ years of professional experience.</h3>
 
-- 🔭 Currently working at Botsplash as a **Lead Full-Stack JS Developer**
+- 🔭 Currently working at <a href="https://botsplash.com/" target="_blank">Botsplash</a> as a **Lead Full-Stack JS Developer**
 
 - 🌱 Technologies I use everyday **ReactJS, NodeJS, PostgreSQL**
 
