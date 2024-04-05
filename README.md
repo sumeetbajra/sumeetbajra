@@ -7,8 +7,6 @@
 - 🌱 Technologies I use everyday: **ReactJS, NodeJS, PostgreSQL**
 
 - 📫 How to reach me: **sumeetbajra@gmail.com**
-  
-- 📖 Read some of my articles [here](https://www.botsplash.com/search?query=sumit+bajracharya)
 
 - ⚡ What I to do when I'm not working: **Playing piano, Reading books, Watching Science and Math videos on YouTube**
 
