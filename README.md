@@ -8,8 +8,6 @@
 
 - 📫 How to reach me: **sumeetbajra@gmail.com**
 
-- ⚡ What I to do when I'm not working: **Playing piano, Reading books, Watching Science and Math videos on YouTube**
-
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
